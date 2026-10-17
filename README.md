@@ -1,5 +1,6 @@
 # Decoding Maternal Care - reproducible analysis code (v2.0.0)
-<img width="627" height="256" alt="Screenshot 2026-10-17 at 18 55 08" src="https://github.com/user-attachments/assets/c5191431-93f8-47c6-bfc4-cb6fbd0d2d02" />
+<img width="1361" height="530" alt="fig01_pipeline" src="https://github.com/user-attachments/assets/b619d0b8-ccb2-4c66-8255-8b1afb3293ef" />
+
 
 This repository reproduces **every number, table and figure** in the revised manuscript
 *"Decoding Maternal Care: A Graph Neural Network Approach for Intent Classification and
