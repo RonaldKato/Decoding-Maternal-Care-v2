@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying article and the MOTHER dataset."
+title: "Decoding Maternal Care: reproducible analysis code for the MOTHER maternal-health Q&A dataset"
+version: 2.0.0
+date-released: 2026-10-17
+license: MIT
+repository-code: "https://github.com/RonaldKato/Decoding-Maternal-Care"
+authors:
+  - family-names: Kimera
+    given-names: Richard
+  - family-names: Kato
+    given-names: Ronald
+  - family-names: Kuyeso
+    given-names: Rogers
+  - family-names: Kaggwa
+    given-names: Fred
+references:
+  - type: dataset
+    title: "MOTHER: A Dataset For Maternal Online Technology for Health Care Dataset"
+    doi: 10.7910/DVN/EZLCH3
+    version: "V4"
+    publisher:
+      name: Harvard Dataverse

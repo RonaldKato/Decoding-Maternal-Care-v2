@@ -1,0 +1,14 @@
+# Exact versions used to produce every number in the revised manuscript (Python 3.13.16, CPU only)
+torch==2.14.1
+torch_geometric==2.8.1
+scikit-learn==1.9.1
+gensim==4.4.0
+pandas==3.0.5
+numpy==2.5.3
+networkx==3.6.1
+scipy==1.18.1
+matplotlib==3.11.2
+pyphen==0.18.1
+wordcloud==1.9.6
+vaderSentiment==3.3.2
+pytest==9.1.1
