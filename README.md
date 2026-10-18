@@ -1,6 +1,11 @@
 # Decoding Maternal Care - reproducible analysis code (v2.0.0)
-<img width="619" height="234" alt="fig01_pipeline" src="https://github.com/user-attachments/assets/5086fa15-d346-449b-b734-43d6aee1309e" />
-
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/5086fa15-d346-449b-b734-43d6aee1309e"
+    alt="fig01_pipeline"
+    width="100%"
+  />
+</p>
 
 
 This repository reproduces **every number, table and figure** in the revised manuscript
